@@ -1,0 +1,4 @@
+interface:
+  display_name: "prompt工程笔试助手"
+  short_description: "解析图片或文字Prompt笔试题并生成严格结构化提示词"
+  default_prompt: "使用 $prompt-engineering-exam-assistant 解析这道Prompt工程笔试题并生成可直接提交的提示词。"
